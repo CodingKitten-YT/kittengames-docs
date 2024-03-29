@@ -2,27 +2,18 @@
 
 To run your game locally on your machine, follow these steps:
 
-1. Clone the repository using the following command:
-
-```bash
-git clone https://github.com/CodingKitten-YT/kittengames.git
-```
-
-This command clones the repository to your local machine.
-
-2. Install http-server globally by running the following command in your terminal or command prompt:
+1. Install http-server globally by running the following command in your terminal or command prompt:
 
 ```bash
 npm install --global http-server
 ```
 
-This command installs http-server, which is a simple, zero-configuration command-line HTTP server for serving static files.
+2. Create a new folder and name it: KittenGames
 
-3. Navigate to the folder where you cloned the repository using the cd command:
-   (for example)
+3. Clone the repository into the folder using the following command:
 
 ```bash
-cd kittengames
+git clone https://github.com/CodingKitten-YT/kittengames.git
 ```
 
 4. Start the HTTP server by running the following command:
