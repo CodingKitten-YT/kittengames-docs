@@ -1,3 +1,2 @@
 # kittengames-docs
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/CodingKitten-YT/kittengames-docs)
+[The site](https://kittengames-docs.vercel.app/)
