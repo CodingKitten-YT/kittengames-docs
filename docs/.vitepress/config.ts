@@ -24,14 +24,6 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Customization',
-        collapsed: false,
-        items: [
-          { text: 'Quick Start', link: '/customization/quickstart.md' },
-          { text: 'Custom Css', link: '/customization/custom-css.md' },
-        ],
-      },
-      {
         text: 'Deploying',
         collapsed: false,
         items: [
