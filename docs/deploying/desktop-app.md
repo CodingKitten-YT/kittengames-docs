@@ -1,7 +1,5 @@
 ## Desktop App
 
-I'm currently working on developing a desktop application for the game website using Electron.js.
+[Download the ZIP here](https://ufile.io/qdq9g78d) | [Installer EXE](https://ufile.io/ul3md5wq)
 
-[Electron.js](https://www.electronjs.org/) is a framework that allows developers to build cross-platform desktop applications using web technologies such as HTML, CSS, and JavaScript.
-
-Stay tuned for updates on the progress of the desktop app development!
+When you download the ZIP file, you'll receive the entire build folder, generated using ElectronJS. Alternatively, by installing the EXE, all necessary files will be automatically downloaded for you.
