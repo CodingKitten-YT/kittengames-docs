@@ -1,5 +1,14 @@
 ## Desktop App
 
-[Installer EXE](https://drive.google.com/file/d/1KZB_jlA4J8rLvxMWAIM5jodPF5VxvMUM/view?usp=sharing) | [Download the ZIP here](https://drive.google.com/file/d/1g3CmT9A1yp2irgCq-JlHTIMBK4U-iHWn/view?usp=sharing)
+[Download Installer (EXE)](https://drive.google.com/file/d/1DSIEwgFTnxTWjIQ7RaO_joTyW2szbmHg/view?usp=sharing)
 
-When you download the EXE file, you can run it and it will automaticly install all necessary files.Alternatively you can install the ZIP you'll receive the entire build folder, generated using ElectronJS.
+When you download the EXE file and run it, it will automatically install all necessary files onto your system. If you prefer, you can also download the ZIP file, which contains the entire build folder generated using ElectronJS.
+
+### Updating to New Versions
+When a new version of the app is available, simply download and run the new installer to update your installation.
+
+### Note on Security
+Please note that since the installer is not signed with a digital certificate, it may be flagged as a potential virus by some antivirus software. This is due to the lack of a code signing certificate, which requires a significant fee. However, you can safely proceed with the installation as the app is not harmful.
+
+### Older Versions
+[V1.0.0](https://drive.google.com/file/d/1KZB_jlA4J8rLvxMWAIM5jodPF5VxvMUM/view?usp=sharing)
