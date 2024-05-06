@@ -2,7 +2,7 @@
 
 [Download Installer (EXE)](https://drive.google.com/file/d/1DSIEwgFTnxTWjIQ7RaO_joTyW2szbmHg/view?usp=sharing)
 
-When you download the EXE file and run it, it will automatically install all necessary files onto your system. If you prefer, you can also download the ZIP file, which contains the entire build folder generated using ElectronJS.
+When you download the EXE file and run it, it will install the application onto your system.
 
 ### Updating to New Versions
 When a new version of the app is available, simply download and run the new installer to update your installation.
